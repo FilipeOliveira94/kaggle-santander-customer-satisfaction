@@ -7,4 +7,4 @@ Link da competição: https://www.kaggle.com/c/santander-customer-satisfaction
 
 Os datasets utilizados podem ser obtidos na competição acima.
 
-Relatório completo do projeto: https://filipeoliveira94.github.io/-Kaggle-SantanderCustomerSatisfaction/
+Relatório completo do projeto: https://filipeoliveira94.github.io/kaggle-santander-customer-satisfaction/
